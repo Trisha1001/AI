@@ -1,4 +1,3 @@
-; TriMy - Trisha Mukhopadhyay and Ramy Mounir
 ; This program helps a user decide on the most suitable laptop based on user specific information such as: profession, income, familiarity with OS and so on.
 ; The output of this program is a specific computer model (including CPU and GPU models)
 
